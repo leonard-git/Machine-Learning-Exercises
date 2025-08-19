@@ -1,7 +1,7 @@
 # Machine Learning Exercises
 ---
 
-## Exercise 8: Word Chain Finder
+## Exercise week 1: Word Chain Finder
 
 **Description:**  
 Write a program that lets the user input two English words. The program should find and print the shortest possible chain of words connecting the two, following these rules:
